@@ -1,0 +1,13 @@
+git commands for creation of files:
+
+1. git add .(to add all the files) or git add <file_name>
+
+git remove files:
+
+2. git -rm <filename>
+
+git creating branch name:
+
+3.git branch <branchname>
+
+
